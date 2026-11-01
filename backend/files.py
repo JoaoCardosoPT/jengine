@@ -2,8 +2,7 @@
 from typing import Any, Dict, List
 
 # return a list of dictionaries
-def content() -> list[dict[str,  Any]]:
-    return [
+def content() -> list[dict[str,  Any]]: return [
         {
             "id": 1,
             "name": "How to build a game in c++",

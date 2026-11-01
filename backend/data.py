@@ -1,4 +1,3 @@
-from files import content
 from typing import Any, Dict, List
 
 def process_documents(raw_files: list[dict[str, Any]]) -> list[dict[str, Any]]:

@@ -6,3 +6,4 @@ WRN 2026-10-26T21:33:06.789 ?.61354    server_start:197: Failed to start server:
 WRN 2026-10-26T21:33:15.009 ?.61358    server_start:197: Failed to start server: operation not permitted: /var/folders/2n/0263hf1x7xx595bp678svgl40000gn/T/nvim.joaocardoso/19Rbhp/nvim.61358.0
 WRN 2026-11-01T13:55:44.785 ?.3916     server_start:197: Failed to start server: operation not permitted: /var/folders/2n/0263hf1x7xx595bp678svgl40000gn/T/nvim.joaocardoso/WuEmrE/nvim.3916.0
 WRN 2026-11-01T13:57:13.375 ?.3946     server_start:197: Failed to start server: operation not permitted: /var/folders/2n/0263hf1x7xx595bp678svgl40000gn/T/nvim.joaocardoso/cybSPn/nvim.3946.0
+WRN 2026-11-01T17:36:40.603 ?.7834     server_start:197: Failed to start server: operation not permitted: /var/folders/2n/0263hf1x7xx595bp678svgl40000gn/T/nvim.joaocardoso/0BdYUL/nvim.7834.0

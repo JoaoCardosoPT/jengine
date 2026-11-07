@@ -1,4 +1,3 @@
-# these will be replaced with an actual database
 from typing import Any, Dict, List
 
 # return a list of dictionaries

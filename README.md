@@ -57,26 +57,6 @@ This structure makes it possible to retrieve candidate document IDs without scan
 
 Index construction visits every token once. With average constant-time dictionary and set operations, its expected time complexity is **O(T)**, where **T** is the total number of token occurrences. The postings store one entry per unique token–document pair; the complete documents and their token lists are also retained in memory.
 
-## Project structure
-
-```text
-backend/
-├── files.py             # Sample document collection
-├── data.py              # Document field normalization
-├── cfg.py               # Tokenizer and document preparation
-├── index.py             # Inverted index and document lookup
-├── search.py            # Query evaluation in progress
-├── main.py              # Empty entry-point placeholder
-└── tests/
-    └── test_index.py    # Assertion-based index checks
-
-frontend/
-├── src/
-│   ├── App.jsx          # Search input and button scaffold
-│   └── main.jsx         # React entry point
-├── package.json
-└── vite.config.js
-```
 
 ## Run locally
 
